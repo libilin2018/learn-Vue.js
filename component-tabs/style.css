@@ -52,6 +52,10 @@
     visibility: visible;
     transform: translateX(0);
 }
+
+/* 
+关闭按钮样式
+*/
 .close.icon {
     color: #000;
     position: relative;
